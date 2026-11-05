@@ -6,6 +6,7 @@
   "foundation": "module-boilerplate-nuxt",
   "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
   "canonicalPlan": "projects/boilerplate/nextjs/activity-comments.md",
+  "presentationPlan": "projects/boilerplate/nuxt/activity-comments.md",
   "identityReviewRequired": false,
   "status": "skeleton",
   "documentedConsumerScopes": [

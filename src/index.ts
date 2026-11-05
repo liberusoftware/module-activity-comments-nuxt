@@ -4,5 +4,5 @@ export const moduleDefinition = {
   "presentation": "nuxt-vue",
   "capabilityKey": "liberusoftware/activity-comments",
   "status": "skeleton",
-  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/nextjs/activity-comments.md"
+  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/nuxt/activity-comments.md"
 } as const;
